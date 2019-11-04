@@ -4,7 +4,7 @@ body {
   
     font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
   
-    color: black;
+    color: #777777;
   
     line-height: 14pt;
   
@@ -25,11 +25,14 @@ body {
   
     line-height: 20pt;
     
-    background-color: 4aaaa5;
-  
+    color: #4aaaa5;
   }
 
-  footerborder {
-      background-color: 666666;
-      
+  footer {
+    background-color: #666666;
+
+    color: white;
+
+    text-align: center;
+
   }
